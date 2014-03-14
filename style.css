@@ -1,0 +1,9 @@
+body {
+	font-family: sans-serif;
+  min-width: 357px;
+  overflow-x: hidden;
+}
+
+input {
+	width: 210px;
+}
