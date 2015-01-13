@@ -1,6 +1,6 @@
 var clippy = {
 	addEmailToPage: function() {
-		var text = "test_" + Date.now() + "@mailinator.com";
+		var text = "Test_+-." + Date.now() + "@mailinator.com";
 		$('input').val(text);
 	}
 };

@@ -3,7 +3,7 @@
 
   "name": "Doug Timestamper",
   "description": "This extension automatically generates a timestamped email address.",
-  "version": "1.0.2",
+  "version": "1.0.3",
 
   "browser_action": {
     "default_icon": "icon.png",
